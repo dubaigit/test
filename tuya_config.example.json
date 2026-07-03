@@ -1,5 +1,6 @@
 {
   "region": "eu",
   "access_id": "YOUR_ACCESS_ID_HERE",
-  "access_key": "YOUR_ACCESS_SECRET_HERE"
+  "access_key": "YOUR_ACCESS_SECRET_HERE",
+  "api_key": "sk-EUxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
